@@ -8,7 +8,7 @@ We strive to create and maintain a welcoming and open research lab carrying addr
 
 ## Mission
 
-
+Our mission is to 
 
 ## Values
 

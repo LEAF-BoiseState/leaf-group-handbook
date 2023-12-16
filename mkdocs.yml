@@ -1,4 +1,4 @@
-site_name: Basic MkDocs Example Project
+site_name: LEAF Research Group Handbook
 theme:
   name: readthedocs
   highlightjs: true
@@ -14,4 +14,3 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
-  

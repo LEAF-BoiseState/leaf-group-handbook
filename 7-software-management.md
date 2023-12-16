@@ -16,4 +16,5 @@ Expected to use the group GitHub page
 
 ## Documentation
 
-All GitHub repositories should have README files.
+All GitHub repositories should have README files. 
+All repositories should be adequately documented.

@@ -4,11 +4,11 @@ This repository contains the handbook for members of the LEAF research group at 
 
 ## Vision
 
-We strive to create and maintain a welcoming and open research lab carrying addressing global water and ecosystem challenges while helping eachother grow and learn as researchers and people.
+A welcoming and open research lab carrying addressing global water and ecosystem challenges while helping eachother grow and learn as researchers and people.
 
 ## Mission
 
-Our mission is to 
+We creatively use computational tools and data to understand how the world's watersheds and ecosystems work and respond to change, with an emphasis on mountain systems.  
 
 ## Values
 

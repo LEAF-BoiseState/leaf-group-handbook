@@ -1,6 +1,6 @@
 # Welcome to the LEAF Group!
 
-This repository contains the Lab Handbook for the LEAF research group at Boise State University
+This repository contains the handbook for members of the LEAF research group at Boise State University. This purpose of this handbook is to familiarize you with the expectations of being a member of our group, help you navigate day-to-day operations in the lab, and provide resources to help you be productive in your research activities. Before going further, however, it's important to outline the vision, mission, and values that serve as the foundation for our group. These are the North Star that guides how we interact with fellow group members and members of our university and research communities. 
 
 ## Vision
 

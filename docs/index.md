@@ -14,7 +14,7 @@ Our mission is to
 
 Associated with each of these core values is a guiding principle.
 
-| Core Value | Guiding Principle |
+| Core Value | <div style="width:200px">Guiding Principle</div> |
 | --- | --- |
 | Openness | We create open, safe, and inclusive environments to do our research. We carry out our research openly and transparently for our benefit and that of the broader research community. |
 | Creativity | Openness allows us to see problems in new and innovative ways, ask unasked questions, and dare to answer daunting questions |

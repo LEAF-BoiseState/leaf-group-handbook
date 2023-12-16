@@ -1,1 +1,8 @@
 site_name: LEAF Group Lab Handbook
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+

@@ -28,8 +28,9 @@ If your project is in support of a grant or contract, there may already be a DMP
 
 ## Preferred Data Repositories
 
-* CUAHSI HydroShare (National Science Foundation supported projects)
-* DOE ESS-DIVE (Department of Energy supported projects)
+* [CUAHSI HydroShare](https://www.hydroshare.org/): Use for National Science Foundation supported projects and for unfunded research.
+* [DOE ESS-DIVE](https://ess-dive.lbl.gov/): Use for Department of Energy supported projects.
+* [zenodo](https://zenodo.org/): Use for datasets that are not appropriate for either HydroShare or ESS-DIVE (this should be rare). 
 
 
 

@@ -1,4 +1,4 @@
-# Theses and Dissertations
+# Writing
 
  For some (like Lejo) writing is the most challenging part of the research process. It is also the most important; no one will know how amazing your research is if you can't communicate it effectively! Writing is a craft and perishable skill, meaning that it improves with work and can atrophy when not used. I __*highly*__ recommend that to improve your writing skills you: (1) write early and often, (2) solicit feedback on your writing, and (3) don't go it alone.    
 

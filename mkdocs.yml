@@ -1,6 +1,7 @@
 site_name: LEAF Research Group Handbook
 theme:
   name: readthedocs
+  logo: 'img/LEAF_logo.png'
   highlightjs: true
 plugins:
   - search
